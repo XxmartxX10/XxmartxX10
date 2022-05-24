@@ -14,6 +14,10 @@
 ![282163064_1239902366545246_6390131377005407004_n](https://user-images.githubusercontent.com/100945749/170069616-eb241051-e88a-4ad8-aa20-14264aa2312f.jpg)!![281392404_431260691685890_6510860048605142091_n](https://user-images.githubusercontent.com/100945749/170072095-e09d31fc-288a-4ea8-934a-80ac750a1765.jpg)
 
 
+## CONTACT
+*📧 martyna.wisniewska@vp.pl
+*📞 +48 765 666 234
+
 
 
 
