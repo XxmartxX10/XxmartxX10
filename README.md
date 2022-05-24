@@ -10,7 +10,7 @@
 * 💻HTML, CSS, JS
 
 ## Examples of Work
-<img src="https://raw.githubusercontent.com/XxmartxX10/XxmartxX10/main/282163064_1239902366545246_6390131377005407004_n.jpg" width="126"/><img src="https://raw.githubusercontent.com/XxmartxX10/XxmartxX10/main/281392404_431260691685890_6510860048605142091_n.jpg" width="126"/>
+<img src="https://raw.githubusercontent.com/XxmartxX10/XxmartxX10/main/282163064_1239902366545246_6390131377005407004_n.jpg" width="126"/><img src="https://raw.githubusercontent.com/XxmartxX10/XxmartxX10/main/281392404_431260691685890_6510860048605142091_n.jpg" width="128"/>
 
 ## CONTACT
 📧 martyna.wisniewska@vp.pl
