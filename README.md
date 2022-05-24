@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi there👋, Martyna Wisniewska</h1>
-- About me : I'm Martyna from Polnad, and I'm studying computer science and econometrics at the University of Gdańsk. I do content on Design and Development.I really enjoy learning languages and frameworks like React and React Native.I love doing things taht help others create their own projects.**
+ I'm Martyna from Polnad, and I'm studying computer science and econometrics at the University of Gdańsk. I do content on Design and Development.I really enjoy learning languages and frameworks like React and React Native.I love doing things taht help others create their own projects.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
