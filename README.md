@@ -1,9 +1,8 @@
-![image](https://user-images.githubusercontent.com/100945749/170064614-aee51efb-ed21-4e7b-91a7-a6140c5b0c57.png)
+<img src="https://raw.githubusercontent.com/XxmartxX10/XxmartxX10/main/web-design-development.jpg"/>
 
 
 <h1 align="center">Hi there👋, Martyna Wisniewska</h1>
  I'm Martyna from Polnad, and I'm studying computer science and econometrics at the University of Gdańsk. I do content on Design and Development.I really enjoy learning languages and frameworks like React and React Native.I love doing things taht help others create their own projects.
- 
  
 ## Skilss and Experience
 * ⚛️ React
@@ -11,20 +10,12 @@
 * 💻HTML, CSS, JS
 
 ## Examples of Work
-![282163064_1239902366545246_6390131377005407004_n](https://user-images.githubusercontent.com/100945749/170069616-eb241051-e88a-4ad8-aa20-14264aa2312f.jpg)!![281392404_431260691685890_6510860048605142091_n](https://user-images.githubusercontent.com/100945749/170072095-e09d31fc-288a-4ea8-934a-80ac750a1765.jpg)
-
+<img src="https://raw.githubusercontent.com/XxmartxX10/XxmartxX10/main/282163064_1239902366545246_6390131377005407004_n.jpg" width="126"/><img src="https://raw.githubusercontent.com/XxmartxX10/XxmartxX10/main/281392404_431260691685890_6510860048605142091_n.jpg" width="126"/>
 
 ## CONTACT
-*📧 martyna.wisniewska@vp.pl
-*📞 +48 765 666 234
+📧 martyna.wisniewska@vp.pl
 
-
-
-
-
-
-
-
+📞 +48 765 666 234
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
